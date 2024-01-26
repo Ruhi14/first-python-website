@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: Roboto;
+  font-weight: normal;
+  color: rgb(120, 120, 120);
+}
+.button {
+  text-align: center;
+}
